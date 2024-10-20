@@ -1,0 +1,27 @@
+body {
+    background-color: #141414;
+  }
+  
+  h2 {
+    color: #ffffff;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .navbar-dark .navbar-brand {
+    color: #e50914;
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  
+  .navbar-dark .nav-link {
+    color: #ffffff;
+  }
+  
